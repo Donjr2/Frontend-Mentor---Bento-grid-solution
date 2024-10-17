@@ -8,8 +8,8 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/bento-grid-Hq7NWyRPq-)
+- Live Site URL: [Live site URL here](https://donjr2.github.io/Frontend-Mentor---Bento-grid-solution/)
 
 ### Built with
 
