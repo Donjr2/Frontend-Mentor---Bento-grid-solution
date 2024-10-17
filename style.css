@@ -39,9 +39,7 @@ body {
   font-size: 18px;
   font-weight: 400;
 }
-/* .content-area {
-  background: var();
-} */
+
 .main-area {
   min-width: 320px;
   padding: 10% 4.26%;
@@ -317,14 +315,17 @@ body {
     grid-area: card5;
   }
 
+  .card5 .img5 {
+    flex-basis: 46%;
+  }
   .card5 img {
     height: 100%;
     margin: 0;
   }
   .card5 h2 {
-    flex-basis: 60%;
+    flex-basis: 54%;
     text-align: left;
-    font-size: 42px;
+    font-size: 40px;
     padding-right: 0;
     padding-left: 11px;
     line-height: 37px;
